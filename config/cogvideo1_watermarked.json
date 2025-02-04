@@ -1,0 +1,32 @@
+{
+    "input": "videos/cogvideo1_watermarked.mp4",
+    "output": "videos/cogvideo1_watermarked/blend.mp4",
+    "work_dir": "videos/cogvideo1_watermarked",
+    "key_subdir": "keys",
+    "frame_count": 49,
+    "interval": 10,
+    "crop": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "prompt": "The video captures a moment of a golden retriever dog, adorned with sunglasses, walking on a wet surface. The dog's coat is a vibrant shade of golden, and its tail is wagging in a playful manner, adding a sense of joy and energy to the scene. The dog's sunglasses, a striking contrast to its fur, are a unique accessory that adds a touch of whimsy to the image. The wet surface beneath the dog's paws reflects its image, creating a mirror-like effect that enhances the visual appeal of the scene. The dog's path is clear and unobstructed, suggesting a sense of freedom and adventure. The background is blurred, drawing focus to the dog and its actions, while also adding depth to the image. The overall scene is a playful and lighthearted moment of a dog enjoying a walk on a rainy day.",
+    "a_prompt": "",
+    "n_prompt": "",
+    "x0_strength": 1.05,
+    "control_type": "canny",
+    "canny_low": 50,
+    "canny_high": 100,
+    "control_strength": 0.7,
+    "seed": 0,
+    "warp_period": [
+        0,
+        0.1
+    ],
+    "ada_period": [
+        0.8,
+        1
+    ],
+    "image_resolution": 512
+}
