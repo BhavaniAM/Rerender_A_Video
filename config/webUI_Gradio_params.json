@@ -3,7 +3,6 @@
     "output": "videos/pexels-cottonbro-studio-6649832-960x506-25fps/blend.mp4",
     "work_dir": "videos/pexels-cottonbro-studio-6649832-960x506-25fps",
     "key_subdir": "keys",
-    "sd_model": "models/realisticVisionV20_v20.safetensors",
     "frame_count": 102,
     "interval": 10,
     "crop": [
